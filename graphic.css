@@ -1,0 +1,32 @@
+.verde {
+color:#396039;
+font-family:impact;
+text-align:center;
+}
+body {
+font-family:Courier;
+background-color:#79867c;
+}
+
+#sanranieriregatta {
+float:left;
+}
+
+#delcalugnanofire {
+float:center;
+padding-left:400px;
+padding-right:400px;
+}
+
+#urbanoperationalplan {
+float:right;
+padding-right:400px;
+}
+
+.portfolio {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  gap: 10px;
+  width: 80%;
+}
